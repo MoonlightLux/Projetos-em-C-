@@ -1,0 +1,3 @@
+codigo_emprestimo;matricula_aluno;codigo_livro;data_emprestimo;data_devolucao;status
+1;202501;L007;2025-11-12;2025-11-12;Devolvido
+2;202501;L007;2025-11-12;;Aberto
